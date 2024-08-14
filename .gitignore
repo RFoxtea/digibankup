@@ -1,3 +1,5 @@
+env/
+.idea/
 env/lib64
 env/pyvenv.cfg
 env/bin/activate
