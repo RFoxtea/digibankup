@@ -80,22 +80,7 @@ default_config_dict = {
     },
     'snipe_it': {
         'api_endpoint': 'https://inventaris.digibankmechelen.be/api/v1/',
-        'api_token': (
-            'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYzVm'
-            'ZDE4Zjg1YzdhNWQzNDVmZDQ4OGM0YmUwMTg5MTQ3ZThmZWU1ZDgzMzA3ZTU2N2I0N'
-            'zQ3Mjc4YWQ2NWNkNjQxM2ZiMGE2YzllMzgzMDkiLCJpYXQiOjE3MjI0Mjc5MTcsIm'
-            '5iZiI6MTcyMjQyNzkxNywiZXhwIjoyMzUzNTc5OTE3LCJzdWIiOiI2Iiwic2NvcGV'
-            'zIjpbXX0.3YZZMEKGWAwlIkQee5etuSdvtqSLUcw2udTyki9g9coPS3Ks-fGSnnmU'
-            '2EjIqzKpO9R_xOID734ZqNeqiwSgYtC1WV6wJM6zZMFM7BcV2zT-83cy9Qnr65XQo'
-            'jbf_Hoao2GA24J3i-FFOn_TNBd-c54Z5HBSDhaPHgO4FYHlx8FpJ6mK0Gy-ioHsAM'
-            'Yn8MRa-MRv5XX4K3dqeI17b_HTHHARSmS92DbsfAP6ahbGHB9du188NV1ObGDaeZe'
-            '10QFNXyhdK4kOPZw-3ZsogXnwwTmyebahlD91qw5QWoqCYi-tAdmbDvBgMoZ9lpVA'
-            'tqBNL9MCFepXkAGwkVZqKtnOCiS9e8T0-OTlDdW1cC952q1oUB0OmQGzuShZFe2oT'
-            'I_S1hWjSb1BpbYOztuGpRnsizDEgAMZaZsMnA8d-EqWe78DTJMDYXb77xMfTSwv6i'
-            'Ni_e1FhyztCCeBm_FFS0iO358GC2014A6ThEyRqbyHGBIGsnix2-1i2wSToWo1W_V'
-            '8M_7tjXq2gDnClS3xBOBJGOlgyyfzQ4Jz-VAaQ8sy5v4vQgaCFC1rEPoS2Mzd1rEG'
-            '7YrseFkmtcRs0ikslD576xSpLQq6sydFpxHDrYHGmhr3jRxLlpotY3lD9LOYGVSnW'
-            'vV8IkW0uv6hktyxGX3Cwq73j8USYJB5fv0PiCnBniQ')
+        'api_token': ('something')
     }
 }
 
